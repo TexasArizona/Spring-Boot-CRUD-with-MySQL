@@ -13,7 +13,7 @@ Spring Boot Crud Operations Example
   
   - It provides an efficient jpa-starter library to effectively connect the application with the relational databases.
   
-  Now, open the eclipse ide and let us see how to implement this tutorial in the spring boot module using the jpa-starter library to communicate with a relational database.
+  Now, open the eclipse / STS ide and let us see how to implement this tutorial in the spring boot module using the jpa-starter library to communicate with a relational database.
 
 2. Spring Boot Crud Operations Example
     Here is a systematic guide for implementing this tutorial.
